@@ -1,3 +1,12 @@
+<#
+\\\\\!!!!!/////=====================================================================\\\\\!!!!!/////
+Name:           Export Dynamic Group members to Excel file format
+Description:    This script export all membre of an Entra dynamic group to a csv file.
+website:        https://oghmasite.wordpress.com/
+Script by:      David Bouhadana
+\\\\\!!!!!/////=====================================================================\\\\\!!!!!/////
+#>
+
 # Obtenir le groupe de distribution dynamique
 # Get dynamic distribution group
 $dynamicGroup = Get-DynamicDistributionGroup -Identity "NameOfYourGroup"
