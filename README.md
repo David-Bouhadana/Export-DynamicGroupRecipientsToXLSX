@@ -45,7 +45,7 @@ $recipients | Export-Excel -Path "$PWD\fichier.xlsx" -WorksheetName "Destinatair
 
 Script written by **David Bouhadana**.
 
-- Blog: [Oghma Site](https://oghmasite.wordpress.com/)
+- Blog: [M365 journey](https://m365journey.blog/)
 
 ## License
 
